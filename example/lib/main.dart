@@ -189,7 +189,7 @@ class _ScreenState extends State<Screen> {
               child: Text('Initiate Transaction',
                   style: Theme.of(context)
                       .textTheme
-                      .button!
+                      .labelLarge!
                       .copyWith(color: Colors.white)),
               color: Theme.of(context).primaryColor,
               height: 48,
