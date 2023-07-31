@@ -81,4 +81,5 @@
         <package android:name="money.bullet" />
         <package android:name="net.one97.paytm" />
     </queries>
+    <meta-data android:name="flutterEmbedding" android:value="2"/>
 </manifest>
